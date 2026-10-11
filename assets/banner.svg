@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-label="Building kids' learning games: a Claude Code skill">
+  <rect width="1200" height="300" fill="#0C62FB"/>
+  <rect x="64" y="64" width="12" height="172" fill="#DEFF4D"/>
+  <text x="104" y="138" font-family="'Slalom Sans', 'Avenir Next LT Pro', 'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="60" font-weight="700" fill="#FFFFFF">Building kids' learning games</text>
+  <text x="104" y="200" font-family="'Slalom Sans', 'Avenir Next LT Pro', 'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="300" fill="#FFFFFF">A Claude Code skill for bilingual, offline games kids love to replay</text>
+  <g fill="#DEFF4D">
+    <circle cx="1060" cy="90" r="14"/><circle cx="1110" cy="70" r="14"/><circle cx="1150" cy="105" r="14"/>
+    <ellipse cx="1105" cy="150" rx="40" ry="32"/>
+  </g>
+</svg>
